@@ -1,0 +1,9 @@
+DROP TABLE Credit;
+DROP TABLE PaymentInfo;
+DROP TABLE AccountFee;
+DROP TABLE Fee;
+DROP TABLE Payment;
+DROP TABLE AccountBill;
+DROP TABLE ServiceAccount;
+DROP TABLE Service;
+DROP TABLE Customer;
